@@ -159,11 +159,11 @@ body{
 	background-image:none;
 	background-repeat:no-repeat;
 	background-size:cover;	
-	background: linear-gradient(bottom , rgb(244, 0, 0) 12% , rgb(35, 35, 35) 80%);
-background: -o-linear-gradient(bottom , rgb(244, 0, 0) 12% , rgb(35, 35, 35) 80%);
-background: -ms-linear-gradient(bottom , rgb(244, 0, 0) 12% , rgb(35, 35, 35) 80%);
-background: -moz-linear-gradient(bottom , rgb(244, 0, 0) 12% , rgb(35, 35, 35) 80%);
-background: -webkit-linear-gradient(bottom , rgb(244, 0, 0) 12% , rgb(35, 35, 35) 80%);
+	background: linear-gradient(bottom , rgb(8, 142, 84) 1% , rgb(214, 1, 58) 10% , rgb(244, 0, 0) 12% , rgb(47, 239, 126) 52% , rgb(138, 118, 74) 79% , rgb(35, 35, 35) 80% , rgb(249, 30, 237) 88% , rgb(31, 135, 84) 97%);
+background: -o-linear-gradient(bottom , rgb(8, 142, 84) 1% , rgb(214, 1, 58) 10% , rgb(244, 0, 0) 12% , rgb(47, 239, 126) 52% , rgb(138, 118, 74) 79% , rgb(35, 35, 35) 80% , rgb(249, 30, 237) 88% , rgb(31, 135, 84) 97%);
+background: -ms-linear-gradient(bottom , rgb(8, 142, 84) 1% , rgb(214, 1, 58) 10% , rgb(244, 0, 0) 12% , rgb(47, 239, 126) 52% , rgb(138, 118, 74) 79% , rgb(35, 35, 35) 80% , rgb(249, 30, 237) 88% , rgb(31, 135, 84) 97%);
+background: -moz-linear-gradient(bottom , rgb(8, 142, 84) 1% , rgb(214, 1, 58) 10% , rgb(244, 0, 0) 12% , rgb(47, 239, 126) 52% , rgb(138, 118, 74) 79% , rgb(35, 35, 35) 80% , rgb(249, 30, 237) 88% , rgb(31, 135, 84) 97%);
+background: -webkit-linear-gradient(bottom , rgb(8, 142, 84) 1% , rgb(214, 1, 58) 10% , rgb(244, 0, 0) 12% , rgb(47, 239, 126) 52% , rgb(138, 118, 74) 79% , rgb(35, 35, 35) 80% , rgb(249, 30, 237) 88% , rgb(31, 135, 84) 97%);
 }
 
 
